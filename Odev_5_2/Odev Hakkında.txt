@@ -1,0 +1,5 @@
+.sln uzantılı dosyayı açınca karşınıza hiçbir şey çıkmıyorsa çözüm gezgininden
+"Form1.cs" e çift tıklamayı deneyin. Yine de hata verir veya ekran boş kalırsa
+ödeve alttaki git adresinden ulaşabilirsiniz.
+
+https://github.com/RFatih/Gorsel_Odevler.git 
