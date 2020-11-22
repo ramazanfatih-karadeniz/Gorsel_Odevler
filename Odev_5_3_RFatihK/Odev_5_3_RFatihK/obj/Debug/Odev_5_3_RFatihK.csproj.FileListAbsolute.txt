@@ -1,0 +1,10 @@
+C:\Users\Fatih\Desktop\Odev_5_3_RFatihK\Odev_5_3_RFatihK\bin\Debug\Odev_5_3_RFatihK.exe.config
+C:\Users\Fatih\Desktop\Odev_5_3_RFatihK\Odev_5_3_RFatihK\bin\Debug\Odev_5_3_RFatihK.exe
+C:\Users\Fatih\Desktop\Odev_5_3_RFatihK\Odev_5_3_RFatihK\bin\Debug\Odev_5_3_RFatihK.pdb
+C:\Users\Fatih\Desktop\Odev_5_3_RFatihK\Odev_5_3_RFatihK\obj\Debug\Odev_5_3_RFatihK.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\Odev_5_3_RFatihK\Odev_5_3_RFatihK\obj\Debug\Odev_5_3_RFatihK.Odev_5_3.resources
+C:\Users\Fatih\Desktop\Odev_5_3_RFatihK\Odev_5_3_RFatihK\obj\Debug\Odev_5_3_RFatihK.Properties.Resources.resources
+C:\Users\Fatih\Desktop\Odev_5_3_RFatihK\Odev_5_3_RFatihK\obj\Debug\Odev_5_3_RFatihK.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\Odev_5_3_RFatihK\Odev_5_3_RFatihK\obj\Debug\Odev_5_3_RFatihK.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Odev_5_3_RFatihK\Odev_5_3_RFatihK\obj\Debug\Odev_5_3_RFatihK.exe
+C:\Users\Fatih\Desktop\Odev_5_3_RFatihK\Odev_5_3_RFatihK\obj\Debug\Odev_5_3_RFatihK.pdb
