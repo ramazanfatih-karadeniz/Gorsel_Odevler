@@ -5,26 +5,32 @@ namespace WindowsFormsApp2
 {
     public partial class odev6_1 : Form
     {
-        public int yas;
+        private int yas;
+       
         public odev6_1()
         {
             InitializeComponent();
+           
         }
-
-        private void button1_Click(object sender, EventArgs e)
+        private int checking(string age)
         {
             try
             {
-                yas = Convert.ToInt32(textBox1.Text);
+                yas = Convert.ToInt32(age);
             }
             catch
             {
-                toolTip1.Show("Please enter a number",textBox1);
-                return;
+                toolTip1.Show("Please enter a number", textBox1);
+                return -1;
             }
             toolTip1.Hide(textBox1);
-            
-            if (yas >= 18)
+            return yas;
+        }
+        private void check_Click(object sender, EventArgs e)
+        {
+           yas=checking(textBox1.Text);
+            if (yas == -1) return;
+            else if (yas >= 18)
                 MessageBox.Show("You are eligible!","Congratulations");
             else
                 MessageBox.Show("We are sorry but you are not eligible :c","Attention!");
@@ -34,8 +40,16 @@ namespace WindowsFormsApp2
             if (e.KeyChar == (char)Keys.Return)
 
             {
-                button1_Click(sender,e);
+                check_Click(sender,e);
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            odev6_2 f2 = new odev6_2();
+            f2.Closed += (s, args) => this.Close();
+            f2.ShowDialog();
         }
     }
 }

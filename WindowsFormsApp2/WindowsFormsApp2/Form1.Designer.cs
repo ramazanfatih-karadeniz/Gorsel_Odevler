@@ -35,6 +35,8 @@ namespace WindowsFormsApp2
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.check = new System.Windows.Forms.Button();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.button2 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // title
@@ -50,6 +52,7 @@ namespace WindowsFormsApp2
             // input
             // 
             this.input.AutoSize = true;
+            this.input.BackColor = System.Drawing.SystemColors.Control;
             this.input.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.input.Location = new System.Drawing.Point(66, 108);
             this.input.Name = "input";
@@ -73,7 +76,7 @@ namespace WindowsFormsApp2
             this.check.TabIndex = 0;
             this.check.Text = "Check";
             this.check.UseVisualStyleBackColor = true;
-            this.check.Click += new System.EventHandler(this.button1_Click);
+            this.check.Click += new System.EventHandler(this.check_Click);
             // 
             // toolTip1
             // 
@@ -81,16 +84,42 @@ namespace WindowsFormsApp2
             this.toolTip1.ToolTipIcon = System.Windows.Forms.ToolTipIcon.Warning;
             this.toolTip1.ToolTipTitle = "Error";
             // 
+            // button2
+            // 
+            this.button2.Enabled = false;
+            this.button2.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.button2.Location = new System.Drawing.Point(12, 276);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 0;
+            this.button2.Text = "Back";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.button1.Location = new System.Drawing.Point(397, 276);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 4;
+            this.button1.Text = "Next";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // odev6_1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(493, 286);
+            this.ClientSize = new System.Drawing.Size(484, 311);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.input);
             this.Controls.Add(this.title);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.check);
             this.Name = "odev6_1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Driving License System";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -103,6 +132,8 @@ namespace WindowsFormsApp2
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button check;
         private System.Windows.Forms.ToolTip toolTip1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button1;
     }
 }
 
