@@ -16,3 +16,7 @@ C:\Users\Fatih\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcorea
 C:\Users\Fatih\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.odev6_2.resources
 C:\Users\Fatih\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.odev6_3.resources
 C:\Users\Fatih\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.odev6_4.resources
+C:\Users\Fatih\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.odev7_1.resources
+C:\Users\Fatih\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Fatih\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.odev7_2.resources
+C:\Users\Fatih\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.odev6_5.resources

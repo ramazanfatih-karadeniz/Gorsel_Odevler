@@ -44,6 +44,7 @@ namespace WindowsFormsApp2
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.Next = new System.Windows.Forms.Button();
             this.Back = new System.Windows.Forms.Button();
+            this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -142,11 +143,11 @@ namespace WindowsFormsApp2
             // 
             this.track.AutoSize = true;
             this.track.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.track.Location = new System.Drawing.Point(246, 127);
+            this.track.Location = new System.Drawing.Point(269, 128);
             this.track.Name = "track";
-            this.track.Size = new System.Drawing.Size(31, 20);
+            this.track.Size = new System.Drawing.Size(18, 20);
             this.track.TabIndex = 5;
-            this.track.Text = "%0";
+            this.track.Text = "0";
             // 
             // toolTip1
             // 
@@ -174,6 +175,16 @@ namespace WindowsFormsApp2
             this.Back.UseVisualStyleBackColor = true;
             this.Back.Click += new System.EventHandler(this.Back_Click);
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label4.Location = new System.Drawing.Point(246, 128);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(22, 20);
+            this.label4.TabIndex = 5;
+            this.label4.Text = "%";
+            // 
             // odev6_3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -181,6 +192,7 @@ namespace WindowsFormsApp2
             this.ClientSize = new System.Drawing.Size(484, 311);
             this.Controls.Add(this.Back);
             this.Controls.Add(this.Next);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.track);
             this.Controls.Add(this.trackBar1);
             this.Controls.Add(this.calculate);
@@ -217,5 +229,6 @@ namespace WindowsFormsApp2
         private System.Windows.Forms.ToolTip toolTip1;
         private System.Windows.Forms.Button Next;
         private System.Windows.Forms.Button Back;
+        private System.Windows.Forms.Label label4;
     }
 }

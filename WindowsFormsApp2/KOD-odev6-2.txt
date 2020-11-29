@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -17,11 +17,11 @@ namespace WindowsFormsApp2
             weight.Text = "60";
             height.Text = "170";
         }
-        /*
-      * Ramazan Fatih Karadeniz
-      * 2017280029
-      * Exercise 6.2
-      */
+ 	/*
+       * Ramazan Fatih Karadeniz
+       * 2017280029
+       * Exercise 6.2
+       */
         private double kg, cm;
         private int checking(string age)
         {

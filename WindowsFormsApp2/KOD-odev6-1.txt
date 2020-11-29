@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp2
@@ -12,11 +12,11 @@ namespace WindowsFormsApp2
             InitializeComponent();
            
         }
-        /*
-      * Ramazan Fatih Karadeniz
-      * 2017280029
-      * Exercise 6.1
-      */
+ 	/*
+       * Ramazan Fatih Karadeniz
+       * 2017280029
+       * Exercise 6.1
+       */
         private int checking(string age)
         {
             try
