@@ -1,0 +1,10 @@
+C:\Users\Fatih\source\repos\Survey_RFatihK\Survey_RFatihK\bin\Debug\Survey_RFatihK.exe.config
+C:\Users\Fatih\source\repos\Survey_RFatihK\Survey_RFatihK\bin\Debug\Survey_RFatihK.exe
+C:\Users\Fatih\source\repos\Survey_RFatihK\Survey_RFatihK\bin\Debug\Survey_RFatihK.pdb
+C:\Users\Fatih\source\repos\Survey_RFatihK\Survey_RFatihK\obj\Debug\Survey_RFatihK.csprojAssemblyReference.cache
+C:\Users\Fatih\source\repos\Survey_RFatihK\Survey_RFatihK\obj\Debug\Survey_RFatihK.Form1.resources
+C:\Users\Fatih\source\repos\Survey_RFatihK\Survey_RFatihK\obj\Debug\Survey_RFatihK.Properties.Resources.resources
+C:\Users\Fatih\source\repos\Survey_RFatihK\Survey_RFatihK\obj\Debug\Survey_RFatihK.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\Survey_RFatihK\Survey_RFatihK\obj\Debug\Survey_RFatihK.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\Survey_RFatihK\Survey_RFatihK\obj\Debug\Survey_RFatihK.exe
+C:\Users\Fatih\source\repos\Survey_RFatihK\Survey_RFatihK\obj\Debug\Survey_RFatihK.pdb

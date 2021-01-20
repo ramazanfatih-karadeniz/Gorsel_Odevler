@@ -1,0 +1,10 @@
+C:\Users\Fatih\source\repos\Odev1_RamazanFatihKaradeniz\Odev1_RamazanFatihKaradeniz\bin\Debug\Odev1_RamazanFatihKaradeniz.exe.config
+C:\Users\Fatih\source\repos\Odev1_RamazanFatihKaradeniz\Odev1_RamazanFatihKaradeniz\bin\Debug\Odev1_RamazanFatihKaradeniz.exe
+C:\Users\Fatih\source\repos\Odev1_RamazanFatihKaradeniz\Odev1_RamazanFatihKaradeniz\bin\Debug\Odev1_RamazanFatihKaradeniz.pdb
+C:\Users\Fatih\source\repos\Odev1_RamazanFatihKaradeniz\Odev1_RamazanFatihKaradeniz\obj\Debug\Odev1_RamazanFatihKaradeniz.csprojAssemblyReference.cache
+C:\Users\Fatih\source\repos\Odev1_RamazanFatihKaradeniz\Odev1_RamazanFatihKaradeniz\obj\Debug\Odev1_RamazanFatihKaradeniz.Form1.resources
+C:\Users\Fatih\source\repos\Odev1_RamazanFatihKaradeniz\Odev1_RamazanFatihKaradeniz\obj\Debug\Odev1_RamazanFatihKaradeniz.Properties.Resources.resources
+C:\Users\Fatih\source\repos\Odev1_RamazanFatihKaradeniz\Odev1_RamazanFatihKaradeniz\obj\Debug\Odev1_RamazanFatihKaradeniz.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\Odev1_RamazanFatihKaradeniz\Odev1_RamazanFatihKaradeniz\obj\Debug\Odev1_RamazanFatihKaradeniz.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\Odev1_RamazanFatihKaradeniz\Odev1_RamazanFatihKaradeniz\obj\Debug\Odev1_RamazanFatihKaradeniz.exe
+C:\Users\Fatih\source\repos\Odev1_RamazanFatihKaradeniz\Odev1_RamazanFatihKaradeniz\obj\Debug\Odev1_RamazanFatihKaradeniz.pdb

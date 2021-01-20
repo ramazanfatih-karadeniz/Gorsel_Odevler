@@ -1,0 +1,117 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace WindowsFormsApp8
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+        /*
+         * Ramazan Fatih Karadeniz
+         * 2017280029
+         * Odev 10
+         * */
+
+        int i;
+        double n1, n2;
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            textBox1.Clear();
+        }
+
+        private void ints_CheckedChanged(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
+        }
+
+        private void dbs_CheckedChanged(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (listBox1.Items.Count == 0) return;
+            textBox1.Clear();
+            double toplam, ort,ssayi,std;
+            int i, n, range, sayi, min, max;
+            toplam  = std = 0;
+            min = max = Convert.ToInt32(listBox1.Items[0]);
+            n = listBox1.Items.Count;
+            for (i = 0; i < n ; i++)
+            {
+                sayi = Convert.ToInt32(listBox1.Items[i]);
+                toplam += sayi;
+                if (sayi < min) min = sayi;
+                if (sayi > max) max = sayi;
+
+            }
+            ort = toplam / n;
+            range = max - min;
+            for (i = 0; i < n ; i++)
+            {
+                ssayi = Convert.ToDouble(listBox1.Items[i]);
+                std +=Math.Pow((ort-ssayi),2);
+            }
+            if (n - 1 != 0)
+            {
+                std /= n - 1;
+                std = Math.Pow(std, 0.5);
+            }
+            else std = 0;
+           
+            if (comboBox1.SelectedIndex == -1) MessageBox.Show("Please Select an operation!", "Error");
+            else if (comboBox1.SelectedItem.ToString() == "Mean") textBox1.Text = ort.ToString();
+            else if (comboBox1.SelectedItem.ToString() == "Min") textBox1.Text = min.ToString();
+            else if (comboBox1.SelectedItem.ToString() == "Max") textBox1.Text = max.ToString();
+            else if (comboBox1.SelectedItem.ToString() == "St. Dev") textBox1.Text = std.ToString();
+            else textBox1.Text = range.ToString();
+        }
+
+        private bool check()
+        {
+            try
+            {
+                i =Convert.ToInt32(n.Text);          
+                n1= Convert.ToDouble(s2.Text);
+                n2 = Convert.ToDouble(s1.Text);     
+            }
+            catch
+            {
+                MessageBox.Show("Please enter a number", "Error");
+                return false;
+            }
+            return true;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            bool flag =check();
+            listBox1.Items.Clear();
+            
+            if(flag)
+            {
+                double s;
+                Random r = new Random();
+                for(int k=0;k<i;k++)
+                {   if (dbs.Checked)
+                        s = Math.Round(r.NextDouble() * (n1 - n2) + n2, 2);
+                    else
+                        s = r.Next((int)(n1-n2)) + n2;
+                    listBox1.Items.Add(s);
+                }
+            }
+        }
+    }
+}

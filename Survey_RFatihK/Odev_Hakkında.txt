@@ -1,0 +1,4 @@
+Exercise 4.5
+Radio buttons'un anketler için daha uygun olduğunu düşündüğüm için onu kullandım.
+Her soru için gruplandırmak için group box kullandım.
+Sonraki sayfada ne yapacağımı anlamadığım için kutlama ekranı yaptım.

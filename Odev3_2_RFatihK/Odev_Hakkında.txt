@@ -1,0 +1,2 @@
+Exercises 4.4, 4.6 ve 4.7 nin içeriğine baktığımda büyük oranda aynı kaynaklar kullanılarak 
+oluşturulduğunu fark ettim. Bu yüzden de sayfadaki içeriği güncelleyerek üçünü aynı projenin içinde yazdım.

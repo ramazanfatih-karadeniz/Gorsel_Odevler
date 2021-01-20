@@ -1,0 +1,10 @@
+C:\Users\Fatih\source\repos\Odev3_2_RFatihK\Odev3_2_RFatihK\bin\Debug\Odev3_2_RFatihK.exe.config
+C:\Users\Fatih\source\repos\Odev3_2_RFatihK\Odev3_2_RFatihK\bin\Debug\Odev3_2_RFatihK.exe
+C:\Users\Fatih\source\repos\Odev3_2_RFatihK\Odev3_2_RFatihK\bin\Debug\Odev3_2_RFatihK.pdb
+C:\Users\Fatih\source\repos\Odev3_2_RFatihK\Odev3_2_RFatihK\obj\Debug\Odev3_2_RFatihK.csprojAssemblyReference.cache
+C:\Users\Fatih\source\repos\Odev3_2_RFatihK\Odev3_2_RFatihK\obj\Debug\Odev3_2_RFatihK.Form1.resources
+C:\Users\Fatih\source\repos\Odev3_2_RFatihK\Odev3_2_RFatihK\obj\Debug\Odev3_2_RFatihK.Properties.Resources.resources
+C:\Users\Fatih\source\repos\Odev3_2_RFatihK\Odev3_2_RFatihK\obj\Debug\Odev3_2_RFatihK.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\Odev3_2_RFatihK\Odev3_2_RFatihK\obj\Debug\Odev3_2_RFatihK.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\Odev3_2_RFatihK\Odev3_2_RFatihK\obj\Debug\Odev3_2_RFatihK.exe
+C:\Users\Fatih\source\repos\Odev3_2_RFatihK\Odev3_2_RFatihK\obj\Debug\Odev3_2_RFatihK.pdb

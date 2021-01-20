@@ -1,0 +1,3 @@
+Ayrı ayrı formlar oluşturmak yerine tüm egzersizleri tek bir formda 5 butonla topladım.
+Karmaşıklığı gidermek için ödevi en baştaki haline döndüren bir Restart butonu ekledim.
+Formun çökmemesi için "string to int" olan yerlerde try catch yapısını kullandım.

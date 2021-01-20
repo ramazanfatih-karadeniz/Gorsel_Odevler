@@ -1,0 +1,10 @@
+C:\Users\Fatih\source\repos\MiniCalculator_RFK\MiniCalculator_RFK\bin\Debug\MiniCalculator_RFK.exe.config
+C:\Users\Fatih\source\repos\MiniCalculator_RFK\MiniCalculator_RFK\bin\Debug\MiniCalculator_RFK.exe
+C:\Users\Fatih\source\repos\MiniCalculator_RFK\MiniCalculator_RFK\bin\Debug\MiniCalculator_RFK.pdb
+C:\Users\Fatih\source\repos\MiniCalculator_RFK\MiniCalculator_RFK\obj\Debug\MiniCalculator_RFK.csprojAssemblyReference.cache
+C:\Users\Fatih\source\repos\MiniCalculator_RFK\MiniCalculator_RFK\obj\Debug\MiniCalculator_RFK.Form1.resources
+C:\Users\Fatih\source\repos\MiniCalculator_RFK\MiniCalculator_RFK\obj\Debug\MiniCalculator_RFK.Properties.Resources.resources
+C:\Users\Fatih\source\repos\MiniCalculator_RFK\MiniCalculator_RFK\obj\Debug\MiniCalculator_RFK.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\MiniCalculator_RFK\MiniCalculator_RFK\obj\Debug\MiniCalculator_RFK.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\MiniCalculator_RFK\MiniCalculator_RFK\obj\Debug\MiniCalculator_RFK.exe
+C:\Users\Fatih\source\repos\MiniCalculator_RFK\MiniCalculator_RFK\obj\Debug\MiniCalculator_RFK.pdb

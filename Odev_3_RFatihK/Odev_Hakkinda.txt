@@ -1,0 +1,4 @@
+Exercise 4.1 ve 4.2 yi aynı proje içinde yazdım.
+Bunu yapmamın nedeni next ve back adında buttonlar kullanıp modern 
+uygulamalara benzetmeye çalışmaktı. Ancak iki sayfa arasında geçiş yerine
+sayfanın içeriğini o an yenilemeyi seçtiğim için yavaş çalışıyor sanırım.

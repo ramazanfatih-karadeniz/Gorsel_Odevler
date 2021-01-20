@@ -1,0 +1,6 @@
+Hocam ödevi multithread ve asenkronik yaptım. Sadece içimden 
+yapabilecek miyim bunu diye araştırma isteği geldi ve daha 
+sonra kendimi durdurmakta zorlandım. Böyle yapmama gerek yoktu
+ancak yapmak istediğim şeyi bunu kullanmadan nasıl yapacağımı
+bilmiyordum. Bunu kullanmadığımda program hesaplama anlarında
+responsive olmuyor.
